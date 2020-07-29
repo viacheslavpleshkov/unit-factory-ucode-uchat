@@ -1,0 +1,5 @@
+{
+    "type": %d,
+    "message_id": %d,
+    "channel_id": %d
+}

@@ -1,0 +1,11 @@
+{
+    "type": %d,
+    "status": %d,
+    "user_id": %d,
+    "first_name": "%s",
+    "last_name": "%s",
+    "login": "%s",
+    "token": "%s",
+    "channel_arr_size": %d,
+    "channels": []
+}

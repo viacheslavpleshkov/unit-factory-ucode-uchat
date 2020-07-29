@@ -1,0 +1,6 @@
+{
+    "type": %d,
+    "status": %d,
+    "channel_id": %d,
+    "messages": []
+}
