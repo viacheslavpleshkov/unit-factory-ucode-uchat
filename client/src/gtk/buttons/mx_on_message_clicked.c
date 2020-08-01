@@ -1,14 +1,5 @@
 #include "uchat_client.h"
 
-gboolean mx_enter_edit_textview(__attribute__((unused))GtkWidget *Widget,
-                                GdkEventKey *key, t_mainWindowObjects *mwo) {
-    if (key->keyval == GDK_KEY_Return || key->keyval == GDK_KEY_KP_Enter) {
-        mx_on_edit_message_clicked(NULL, mwo);
-        return TRUE;
-    }
-    return FALSE;
-}
-
 static void init_dialog_edit(t_mainWindowObjects *mwo) {
     GtkBuilder *build = gtk_builder_new();
     GError *error = NULL;
@@ -21,16 +12,14 @@ static void init_dialog_edit(t_mainWindowObjects *mwo) {
     gtk_window_set_resizable (GTK_WINDOW (mwo->change_mess_Dialog), FALSE);
     mwo->entry_edit_message = GTK_WIDGET(
             gtk_builder_get_object(build, "edite_message_text_view"));
-    g_signal_connect(mwo->entry_edit_message, "key_press_event",
-            G_CALLBACK(mx_enter_edit_textview), mwo);
     buf = gtk_text_buffer_new (NULL);
     gtk_text_buffer_set_text (buf, mwo->curr_channel_info->message->text,
-            (gint)mx_strlen(mwo->curr_channel_info->message->text));
+                              (gint)mx_strlen(mwo->curr_channel_info->message->text));
     gtk_text_view_set_buffer ((GtkTextView *)mwo->entry_edit_message, buf);
     g_object_set_data(gtk_builder_get_object(build, "apply_change_message"),
-            (gchar *)"message_info", mwo->curr_channel_info->message);
+                      (gchar *)"message_info", mwo->curr_channel_info->message);
     g_object_set_data(gtk_builder_get_object(build, "delete_message_button"),
-            (gchar *)"message_info", mwo->curr_channel_info->message);
+                      (gchar *)"message_info", mwo->curr_channel_info->message);
     gtk_builder_connect_signals(build, mwo);
     gtk_window_set_transient_for(GTK_WINDOW(mwo->change_mess_Dialog),
                                  mwo->Window);
@@ -39,7 +28,7 @@ static void init_dialog_edit(t_mainWindowObjects *mwo) {
 }
 
 void mx_on_message_clicked(__attribute__((unused)) GtkWidget *button,
-                GdkEventButton *event, __attribute__((unused))gpointer data) {
+                           GdkEventButton *event, __attribute__((unused))gpointer data) {
     t_mainWindowObjects *mwo = (t_mainWindowObjects *)data;
     t_message_list *curr_message_info = malloc(sizeof(t_message_list));
 

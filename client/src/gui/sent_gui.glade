@@ -1337,7 +1337,7 @@
                             <property name="name">back_image</property>
                             <property name="visible">True</property>
                             <property name="can_focus">False</property>
-                            <property name="pixbuf">images/bright_settings.png</property>
+                            <property name="pixbuf">images/bright_back.png</property>
                           </object>
                         </child>
                       </object>
