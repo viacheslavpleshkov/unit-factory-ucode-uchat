@@ -1,5 +1,4 @@
 #include "uchat_client.h"
-
 static void init_dialog_edit(t_mainWindowObjects *mwo) {
     GtkBuilder *build = gtk_builder_new();
     GError *error = NULL;
