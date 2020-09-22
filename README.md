@@ -20,13 +20,6 @@ Creativity, Problem Solving, Analysis, Reasoning & Argumentation, Innovation Thi
 2. `cd` into the root directory
 3. Run `make`
 
-## Database schema
-<p align="center">
-    <a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
-        <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/database.png?raw=true">
-    </a>
-</p>
-
 ## Screenshots the program
 
 <p align="center">
@@ -54,6 +47,14 @@ Creativity, Problem Solving, Analysis, Reasoning & Argumentation, Innovation Thi
 <a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
     <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-8.png?raw=true" width="350px">
 </a>
+</p>
+
+
+## Database schema
+<p align="center">
+    <a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
+        <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/database.png?raw=true">
+    </a>
 </p>
 
 
