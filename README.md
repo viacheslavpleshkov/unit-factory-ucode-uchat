@@ -31,28 +31,28 @@ Creativity, Problem Solving, Analysis, Reasoning & Argumentation, Innovation Thi
 
 <p align="center">
 <a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
-    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-1.png?raw=true" width="300px">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-1.png?raw=true" width="350px">
 </a>
 <a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
-    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-2.png?raw=true" width="300px">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-2.png?raw=true" width="350px">
 </a>
 <a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
-    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-3.png?raw=true" width="300px">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-3.png?raw=true" width="350px">
 </a>
 <a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
-    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-4.png?raw=true" width="300px">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-4.png?raw=true" width="350px">
 </a>
 <a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
-    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-5.png?raw=true" width="300px">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-5.png?raw=true" width="350px">
 </a>
 <a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
-    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-6.png?raw=true" width="300px">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-6.png?raw=true" width="350px">
 </a>
 <a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
-    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-7.png?raw=true" width="300px">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-7.png?raw=true" width="350px">
 </a>
 <a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
-    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-8.png?raw=true" width="300px">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-8.png?raw=true" width="350px">
 </a>
 </p>
 
