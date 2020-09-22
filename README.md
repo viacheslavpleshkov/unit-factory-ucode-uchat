@@ -20,8 +20,41 @@ Creativity, Problem Solving, Analysis, Reasoning & Argumentation, Innovation Thi
 2. `cd` into the root directory
 3. Run `make`
 
-## Description
+## Database schema
+<p align="center">
+    <a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
+        <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/database.png?raw=true">
+    </a>
+</p>
 
+## Screenshots the program
+
+<p align="center">
+<a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-1.png?raw=true" width="450px">
+</a>
+<a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-2.png?raw=true" width="450px">
+</a>
+<a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-3.png?raw=true" width="450px">
+</a>
+<a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-4.png?raw=true" width="450px">
+</a>
+<a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-5.png?raw=true" width="450px">
+</a>
+<a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-6.png?raw=true" width="450px">
+</a>
+<a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-7.png?raw=true" width="450px">
+</a>
+<a href="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat" target="_blank">
+    <img src="https://github.com/viacheslavpleshkov/unit-factory-ucode-uchat/blob/develop/.git_images/screenshot-8.png?raw=true" width="450px">
+</a>
+</p>
 
 
 ## Author
